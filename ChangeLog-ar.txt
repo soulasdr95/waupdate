@@ -1,10 +1,31 @@
 {"version_code":452099,"content":"
 <p>تحديث 4.90</p>
 
-<li>التحديث لنسخة الماركت 2.17.351</li>
+<li>التحديث لنسخة 2.17.395</li>
+<li>يمكك الآن منع حذف الرسائل من جهازك اذا حاول احد ما استرداد الرسالة من جهازك(خيارات-الخصوصية-منع حذف الرسائل)</li>
+<li>تفعيل ميزة مشاركة الموقع المباشر مع الاصدقاء</li>
+<li>تفعيل ميزة الرد السريع (حدد اي رسالة ثم اضغط على صندوق الإرسال للرد عليها)</li>
+<li>شكل جديد للفيسات</li>
+<li>اضافة خيار للبحث عن تحديث جديد</li>
+<li>اضافة خيار لعرض سجل التغيرات</li>
+<li>امكانية نسخ الحالة/الستوري النصية</li>
+<li>إضافة الخيار رقم 1.1 لإظهار اسم جهة الاتصال في منتصف الشاشة</li>
+<li>إصلاح خيار تعطيل عداد الرسائل على ايقونة البرنامج</li>
+<li>اصلاح خيار تعدد الدردشات</li>
 <li>إصلاحات اخرى</li>
 
-<li> New Base Updated to 2.17.351 (PlayStore) </li>
+<li> New Base Updated to 2.17.395 </li>
+<li> Enabled Live Location Sharing </li>
+<li> Added Option for Centre Names in Conversation Header (Mod 1.1) </li>
+<li> Added Anti-Revoke (Options - Privacy)  </li>
+<li> Added New WhatsApp Emojis and new design </li>
+<li> Enabled Quick Reply (Press and Hold any message and click on the Text Entry)  </li>
+<li> Added Option to view Changelogs </li>
+<li> Fixed Text Status/Story download button, press download button to copy text status </li>
+<li> Fixed Disable Messages counter </li>
+<li> Fixed Muli chat </li>
+<li> Other Fixes.. </li>
+
 
 
 ","url":"https://mustaphaagouz.blogspot.com.tr/2017/05/soula-wasoula-edition-lite.html"
