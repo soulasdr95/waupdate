@@ -16,6 +16,8 @@
 <li>اصلاح خيار تعدد الدردشات</li>
 <li>إصلاحات اخرى</li>
 
+
+
 <li> New Base Updated to 2.17.395 </li>
 <li> Exclusive: possibility to copy the status of any member in groups </li>
 <li> Added Anti-Revoke (Options - Privacy) </li>
