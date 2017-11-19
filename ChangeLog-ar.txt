@@ -1,36 +1,14 @@
-{"version_code":452100,"content":"
-<p>تحديث 4.95</p>
+{"version_code":452102,"content":"
+<p>تحديث 4.96</p>
 
-<li>التحديث لنسخة 2.17.395</li>
-<li>حصريا: إمكانية نسخ حالة أي عضو في مجموعات</li>
-<li>يمكك الآن منع حذف الرسائل من جهازك اذا حاول احد ما استرداد الرسالة من جهازك(خيارات-الخصوصية-منع حذف الرسائل)</li>
-<li>تفعيل ميزة مشاركة الموقع المباشر مع الاصدقاء</li>
-<li>تفعيل ميزة الرد السريع (حدد اي رسالة ثم اضغط على صندوق الإرسال للرد عليها)</li>
-<li>شكل جديد للفيسات</li>
-<li>اضافة خيار للبحث عن تحديث جديد</li>
-<li>اضافة خيار لعرض سجل التغيرات</li>
-<li>امكانية نسخ الحالة/الستوري النصية</li>
-<li>إضافة  واجهة واتساب القديمة</li>
-<li>إصلاح خيار تعطيل عداد الرسائل على ايقونة البرنامج</li>
-<li>اصلاح الانهيار عند فتح المحادثة</li>
-<li>اصلاح خيار تعدد الدردشات</li>
-<li>إصلاحات اخرى</li>
+<li>اعادة اضافة اعدادات الخصوصية والخصوصية المخصصة</li>
+<li> إصلاح مشكلة الانهيار عند فتح البرنامج في انظمة (4.4.4 - 4.4.2 - 4.3 - 4.2.2 - 4.1.2  - 4.0.4 ) </li>
 
 
 
-<li> New Base Updated to 2.17.395 </li>
-<li> Exclusive: possibility to copy the status of any member in groups </li>
-<li> Added Anti-Revoke (Options - Privacy) </li>
-<li> Enabled Live Location Sharing </li>
-<li> Added Old UI </li>
-<li> Added New WhatsApp Emojis and new design </li>
-<li> Enabled Quick Reply (Press and Hold any message and click on the Text Entry) </li>
-<li> Added Option to view Changelogs </li>
-<li> Fixed Text Status/Story download button, press download button to copy text status </li>
-<li> Fixed Disable Messages counter </li>
-<li> Fixed Multi chat </li>
-<li> Fixed launcher icon Changer </li>
-<li> Other Fixes.. </li>
+<li> ReAdded Privacy & Custom Privacy </li>
+<li> Fixed a crash problem when you open the program on (4.4.4  - 4.3 - 4.2.2 - 4.1.2 - 4.0.4) </li>
+
 
 
 ","url":"https://mustaphaagouz.blogspot.com.tr/2017/05/soula-wasoula-edition-lite.html"
