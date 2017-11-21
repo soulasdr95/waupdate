@@ -1,14 +1,15 @@
-{"version_code":452102,"content":"
-<p>تحديث 4.96</p>
+{"version_code":452103,"content":"
+<p>تحديث|Update 4.96</p>
 
+<li>نسخة ثانية لتشغيل رقم ثاني اصبحت متاحة</li>
 <li>اعادة اضافة اعدادات الخصوصية والخصوصية المخصصة</li>
 <li> إصلاح مشكلة الانهيار عند فتح البرنامج في انظمة (4.4.4 - 4.4.2 - 4.3 - 4.2.2 - 4.1.2  - 4.0.4 ) </li>
+<li>اصلاحات اخرى</li>
 
-
-
+<li> second package </li>
 <li> ReAdded Privacy & Custom Privacy </li>
 <li> Fixed a crash problem when you open the program on (4.4.4  - 4.3 - 4.2.2 - 4.1.2 - 4.0.4) </li>
-
+<li> Other fixes </li>
 
 
 ","url":"https://mustaphaagouz.blogspot.com.tr/2017/05/soula-wasoula-edition-lite.html"
