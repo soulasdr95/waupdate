@@ -1,16 +1,31 @@
-{"version_code":452103,"content":"
-<p>تحديث|Update 4.96</p>
+{"version_code":452104,"content":"
+<p>تحديث|Update 5.00</p>
 
-<li>نسخة ثانية لتشغيل رقم ثاني اصبحت متاحة</li>
-<li>اعادة اضافة اعدادات الخصوصية والخصوصية المخصصة</li>
-<li> إصلاح مشكلة الانهيار عند فتح البرنامج في انظمة (4.4.4 - 4.4.2 - 4.3 - 4.2.2 - 4.1.2  - 4.0.4 ) </li>
-<li>اصلاحات اخرى</li>
+<li>التحديث لنسخة الماركت 2.17.427</li>
+<li>إضافة فيسات الواتساب الجديدة</li>
+<li>اضافة خيار لاخفاء ظهور اشعار عند الاستماع الى تسجيل صوتي/ ملف صوتي</li>
+<li>اضافة خيار لعرض رقمك او الحالة الخاصة بك في الشريط العلوي للشاشة الرئيسية</li>
+<li>إضافة خيار  لعرض الرسائل الطويلة بدون ظهور (قراءة المزيد...)</li>
+<li>إضافة خيار  لإلغاء فتح معلومات جهة الاتصال عند الضغط على الصورة</li>
+<li>اضافة خيار اعادة  تعين اعدادات الخصوصية العامة والخصوصية المخصصة الى اعداداتها الافتراضية</li>
+<li>تفعيل ميزة اشعار جهات اتصالك عند تغيير رقمك</li>
+<li>إضافة امكانية التحكم باعدادات المجموعة فقط للمشرفين(سوف تتفعل قريبا من قبل السيرفر)</li>
+<li>إضافة ملصق الساعة</li>
+<li>إصلاحات اخرى</li>
 
-<li> second package </li>
-<li> ReAdded Privacy & Custom Privacy </li>
-<li> Fixed a crash problem when you open the program on (4.4.4  - 4.3 - 4.2.2 - 4.1.2 - 4.0.4) </li>
-<li> Other fixes </li>
+<li> New Base Updated to 2.17.427</li>
+<li> Added Option to Disable notification while playing voice notes</li>
+<li> Added Option to Disable opening contact/group pic when clicking on header pic</li>
+<li> Added Option to set "EITHER" your number or your status under name in main screen</li>
+<li> Added Ability to Remove "Read More" option for Long Messages</li>
+<li> Added Option to Reset All Privacy Settings To Default</li>
+<li> Added New Emojis</li>
+<li> Enabled Change Number Notification</li>
+<li> Enabled Search in Storage usage</li>
+<li> Enabled Clock Sticker</li>
+<li> Enabled Group Info Settings (Will Work when Enabled from Server)</li>
+<li> Other Fixes... </li>
 
 
-","url":"https://mustaphaagouz.blogspot.com.tr/2017/05/soula-wasoula-edition-lite.html"
+","url":"https://xtkno.blogspot.com.cy/2017/05/soula-wasoula-edition-lite.html"
 }
