@@ -1,5 +1,5 @@
-{"version_code":451201,"content":"
-<p>تحديث 1.25</p>
+{"version_code":451202,"content":"
+<p>تحديث 1.26</p>
 
 
 <li> *البناء على اصدار (GB6.25)</li>
