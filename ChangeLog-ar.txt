@@ -1,31 +1,50 @@
-{"version_code":452104,"content":"
-<p>تحديث|Update 5.00</p>
+{"version_code":452146,"content":"
+<p>تحديث|Update 5.10</p>
 
-<li>التحديث لنسخة الماركت 2.17.427</li>
-<li>إضافة فيسات الواتساب الجديدة</li>
-<li>اضافة خيار لاخفاء ظهور اشعار عند الاستماع الى تسجيل صوتي/ ملف صوتي</li>
-<li>اضافة خيار لعرض رقمك او الحالة الخاصة بك في الشريط العلوي للشاشة الرئيسية</li>
-<li>إضافة خيار  لعرض الرسائل الطويلة بدون ظهور (قراءة المزيد...)</li>
-<li>إضافة خيار  لإلغاء فتح معلومات جهة الاتصال عند الضغط على الصورة</li>
-<li>اضافة خيار اعادة  تعين اعدادات الخصوصية العامة والخصوصية المخصصة الى اعداداتها الافتراضية</li>
-<li>تفعيل ميزة اشعار جهات اتصالك عند تغيير رقمك</li>
-<li>إضافة امكانية التحكم باعدادات المجموعة فقط للمشرفين(سوف تتفعل قريبا من قبل السيرفر)</li>
-<li>إضافة ملصق الساعة</li>
-<li>إصلاحات اخرى</li>
+<li>التحديث لنسخة الماركت 2.18.24</li>
+<li>(حصريا) امكانية اخفاء قائمة الحالات المشاهدة في واجهة الستوري/الحالة</li>
+<li>(حصريا) امكانية اخفاء قائمة الحالات  الأخيرة في واجهة الستوري/الحالة</li>
+<li>امكانية اخفاء قائمة الحالات الغير هامة في واجهة الستوري/الحالة</li>
+<li>اضافة خيار لتغير بين الفيسات الجديدة والقديمة /الايموجي/</li>
+<li>إضافة خيار لتغيير لغة البرنامج</li>
+<li>اضافة خيارات اخرى لكتم المحادثة ( ساعة ، 12ساعة ، 36 ساعة ، شهر ، للأبد)</li>
+<li>إضافة الزر العائم في المحادثات</li>
+<li>إضافة القسم 4  للتحكم بالزر العائم</li>
+<li>إمكانية فتح دردشة جديدة من الزر العائم</li>
+<li>إضافة خيار  لتغيير حجم الزر العائم</li>
+<li>إضافة خيار  لتغيير مكان الزر العائم(يسار او يمين الشاشة)</li>
+<li>إمكانية إخفاء انك شاهدت حالة محادثة معينة(افتح بروفايل اي محادثة ثم الخصوصية)</li>
+<li>إمكانية منع حذف الرسائل من جهازك اذا حاول احد ما استرداد الرسالة من جهازك(افتح بروفايل اي محادثة ثم الخصوصية)</li>
+<li>إمكانية رفع فيديو في الحالة مدته 30 دقيقة بدلا من 30 ثانية</li>
+<li>تفعيل جميع المزايا المخفية</li>
+<li>(تحسين خيار اخفاء الفاصل الأن يعمل في كل الشاشات(الخط الفضي</li>
+<li>اصلاح مشكلة التاخر عند تفعيل خيار اخفاء اشارة الصح الزرقاء</li>
+<li>اصلاح مشكلة انهيار النسخة عند ارسال فيديو</li>
+<li>اصلاح عدم امكانية  فتح  الحالة في قائمة الاعدادات</li>
+<li>اصلاحات وتحسينات اخرى..</li>
 
-<li> New Base Updated to 2.17.427</li>
-<li> Added Option to Disable notification while playing voice notes</li>
-<li> Added Option to Disable opening contact/group pic when clicking on header pic</li>
-<li> Added Option to set "EITHER" your number or your status under name in main screen</li>
-<li> Added Ability to Remove "Read More" option for Long Messages</li>
-<li> Added Option to Reset All Privacy Settings To Default</li>
-<li> Added New Emojis</li>
-<li> Enabled Change Number Notification</li>
-<li> Enabled Search in Storage usage</li>
-<li> Enabled Clock Sticker</li>
-<li> Enabled Group Info Settings (Will Work when Enabled from Server)</li>
-<li> Other Fixes... </li>
+<li> Note: I will update base soon :) </li>
+<li> New Base Updated to 2.18.24</li>
+<li>(Exclusive) Ability to hide View status in status row</li>
+<li>(Exclusive) Ability to hide Recent status in status row</li>
+<li> Ability to hide Mute status in status row</li>
+<li> Added Option to Switch between Old and New emojis</li>
+<li> Added option to change App Language</li>
+<li> Extra Mute Conversation Options (1 hrs, 12 hrs , 36 hrs, 1 month , Forever )</li>
+<li> Added FAB in Main Screen { include many options to customize Fab }</li>
+<li> Added New Chat Option in Fab</li>
+<li> Added Option to Change Fab Size</li>
+<li> Added Option to Change Fab Location/Position</li>
+<li> Added Custom Privacy for Anti Revoke</li>
+<li> Added Custom Privacy for Hide View Status. </li>
+<li> Ability to Send a video to your Status for 30 minutes instead of 30 seconds</li>
+<li> Enabled All hidden features..</li>
+<li> Improved  Hide dividers, Now works in all screens (Home, Status, Calls, Contacts, Etc....)</li>
+<li> Fixed delay in Hide Blue tick by 99%</li>
+<li> Fixed crashing when Sending video..</li>
+<li> Fixed unable Opening status Row..</li>
+<li> Bugs fixes and speed improvements...</li>
 
 
-","url":"https://xtkno.blogspot.com.cy/2017/05/soula-wasoula-edition-lite.html"
+","url":"https://soula10.blogspot.com/2017/05/soula-wa-soula-wa-v500.html"
 }
