@@ -1,5 +1,5 @@
-{"version_code":452225,"content":"
-<p>تحديث|Update 5.20</p>
+{"version_code":452226,"content":"
+<p>تحديث اصلاحي|Update Fix 5.20</p>
 
 <li> التحديث لنسخة الماركت 2.18.92</li>
 <li> إضافة  أيقونات جديدة</li>
@@ -12,6 +12,7 @@
 <li> نقل خيارات الخصوصية الى (الشاشة الرئيسة - الشريط العلوي) </li>
 <li> نقل خيار رسالة لرقم غير محفوظ (الشاشة الرئيسة - الشريط العلوي) </li>
 <li> تحسينات على خيار تحميل الحالة/ الستوري</li>
+<li> اصلاح انهيار التطبيق عند فتح الاعدادات في بعض الاجهزة</li>
 <li> إصلاح خيار لعرض الرسائل الطويلة بدون ظهور (قراءة المزيد...)</li>
 <li> إصلاح  خيارلتعطيل ظهور الإشعارات المنبثقة في اصدار اوريو 8.0</li>
 <li> إصلاح خيار إرسال الصور بأعلى دقة</li>
@@ -35,6 +36,7 @@
 <li> Move Send Messages to unsaved Number to (Home Page - Header)</li>
 <li> Improved Ability to Save Status/Story (Open any Status and Click on 3 Dots at right Corner and click download) </li>
 <li> Improved Ability to Copy Text Status (Open Options & Click on Copy) </li>
+<li> Fixed Soula settings in some devices</li>
 <li> Fixed option to Remove "Read More" option for Long Messages</li>
 <li> Fixed Disable Heads-up for Oreo Users</li>
 <li> Fixed High Resolution images</li>
