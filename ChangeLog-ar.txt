@@ -1,48 +1,46 @@
-{"version_code":452146,"content":"
-<p>تحديث|Update 5.10</p>
+{"version_code":452225,"content":"
+<p>تحديث|Update 5.20</p>
 
-<li>التحديث لنسخة الماركت 2.18.24</li>
-<li>(حصريا) امكانية اخفاء قائمة الحالات المشاهدة في واجهة الستوري/الحالة</li>
-<li>(حصريا) امكانية اخفاء قائمة الحالات  الأخيرة في واجهة الستوري/الحالة</li>
-<li>امكانية اخفاء قائمة الحالات الغير هامة في واجهة الستوري/الحالة</li>
-<li>اضافة خيار لتغير بين الفيسات الجديدة والقديمة /الايموجي/</li>
-<li>إضافة خيار لتغيير لغة البرنامج</li>
-<li>اضافة خيارات اخرى لكتم المحادثة ( ساعة ، 12ساعة ، 36 ساعة ، شهر ، للأبد)</li>
-<li>إضافة الزر العائم في المحادثات</li>
-<li>إضافة القسم 4  للتحكم بالزر العائم</li>
-<li>إمكانية فتح دردشة جديدة من الزر العائم</li>
-<li>إضافة خيار  لتغيير حجم الزر العائم</li>
-<li>إضافة خيار  لتغيير مكان الزر العائم(يسار او يمين الشاشة)</li>
-<li>إمكانية إخفاء انك شاهدت حالة محادثة معينة(افتح بروفايل اي محادثة ثم الخصوصية)</li>
-<li>إمكانية منع حذف الرسائل من جهازك اذا حاول احد ما استرداد الرسالة من جهازك(افتح بروفايل اي محادثة ثم الخصوصية)</li>
-<li>إمكانية رفع فيديو في الحالة مدته 30 دقيقة بدلا من 30 ثانية</li>
-<li>تفعيل جميع المزايا المخفية</li>
-<li>(تحسين خيار اخفاء الفاصل الأن يعمل في كل الشاشات(الخط الفضي</li>
-<li>اصلاح مشكلة التاخر عند تفعيل خيار اخفاء اشارة الصح الزرقاء</li>
-<li>اصلاح مشكلة انهيار النسخة عند ارسال فيديو</li>
-<li>اصلاح عدم امكانية  فتح  الحالة في قائمة الاعدادات</li>
-<li>اصلاحات وتحسينات اخرى..</li>
+<li> التحديث لنسخة الماركت 2.18.92</li>
+<li> إضافة  أيقونات جديدة</li>
+<li> إصلاح التعليق ..البرنامج اصبح اكثر سرعة وسلاسة!</li>
+<li> واجهة جديدة للاعدادات</li>
+<li> إضافة خيار لجعل خلفية الاعدادات سوداء</li>
+<li> حذف الخصوصية المخصصة مؤقتا</li>
+<li> إمكانية إرسال الملصقات داخل المحادثات</li>
+<li> عندما يقوم احد ما بتوجيه رسالة لك في اي مجموعة ستظهر علامة @ اسفل المحادثة</li>
+<li> نقل خيارات الخصوصية الى (الشاشة الرئيسة - الشريط العلوي) </li>
+<li> نقل خيار رسالة لرقم غير محفوظ (الشاشة الرئيسة - الشريط العلوي) </li>
+<li> تحسينات على خيار تحميل الحالة/ الستوري</li>
+<li> إصلاح خيار لعرض الرسائل الطويلة بدون ظهور (قراءة المزيد...)</li>
+<li> إصلاح  خيارلتعطيل ظهور الإشعارات المنبثقة في اصدار اوريو 8.0</li>
+<li> إصلاح خيار إرسال الصور بأعلى دقة</li>
+<li> اصلاح خيار تغير الايقونات في البكج الثانية (com.soula2)</li>
+<li> اصلاح خيار تعطيل ظهور عداد الرسائل على الايقونة الرئيسية(com.soula2)</li>
+<li> اصلاح مشكلة ظهور الشاشة البيضاء اثناء فتح البرنامج</li>
+<li> إصلاحات اخرى</li>
 
-<li> Note: I will update base soon :) </li>
-<li> New Base Updated to 2.18.24</li>
-<li>(Exclusive) Ability to hide View status in status row</li>
-<li>(Exclusive) Ability to hide Recent status in status row</li>
-<li> Ability to hide Mute status in status row</li>
-<li> Added Option to Switch between Old and New emojis</li>
-<li> Added option to change App Language</li>
-<li> Extra Mute Conversation Options (1 hrs, 12 hrs , 36 hrs, 1 month , Forever )</li>
-<li> Added FAB in Main Screen { include many options to customize Fab }</li>
-<li> Added New Chat Option in Fab</li>
-<li> Added Option to Change Fab Size</li>
-<li> Added Option to Change Fab Location/Position</li>
-<li> Added Custom Privacy for Anti Revoke</li>
-<li> Added Custom Privacy for Hide View Status. </li>
-<li> Ability to Send a video to your Status for 30 minutes instead of 30 seconds</li>
-<li> Enabled All hidden features..</li>
-<li> Improved  Hide dividers, Now works in all screens (Home, Status, Calls, Contacts, Etc....)</li>
-<li> Fixed delay in Hide Blue tick by 99%</li>
-<li> Fixed crashing when Sending video..</li>
-<li> Fixed unable Opening status Row..</li>
+
+
+
+<li> New Base Updated to 2.18.92</li>
+<li> Added New Launcher Icons</li>
+<li> All mods code Re-worked and Optimized.... WA Lite is Now EXTREMELY Faster and No Lags!</li>
+<li> WA Lite Settings UI and Re-organized</li>
+<li> Added option Dark Theme for ALL Settings</li>
+<li> Remove Custom Privacy (Next Update Will Readded) </li>
+<li> Enabled Stickers (Server Sided) </li>
+<li> Enabled Mention Button</li>
+<li> Move Privacy Options to (Home Page - Header)</li>
+<li> Move Send Messages to unsaved Number to (Home Page - Header)</li>
+<li> Improved Ability to Save Status/Story (Open any Status and Click on 3 Dots at right Corner and click download) </li>
+<li> Improved Ability to Copy Text Status (Open Options & Click on Copy) </li>
+<li> Fixed option to Remove "Read More" option for Long Messages</li>
+<li> Fixed Disable Heads-up for Oreo Users</li>
+<li> Fixed High Resolution images</li>
+<li> Fixed launcher icon Changer (com.soula2)</li>
+<li> Fixed Disable Messages counter (com.soula2)</li>
+<li> Fixed a problem screen appears white and the program stops working</li>
 <li> Bugs fixes and speed improvements...</li>
 
 
