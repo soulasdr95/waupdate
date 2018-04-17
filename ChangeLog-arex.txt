@@ -1,39 +1,31 @@
-{"version_code":451203,"content":"
-<p>تحديث 1.27</p>
+{"version_code":451205,"content":"
+<p>تحديث 1.28</p>
 
-<li> *اصلاح كافة المشاكل السابقة في الاصدار 1.26</li>
-<li> *اضافة الفيسات القديمة</li>
-<li> *البناء على اصدار (GB6.25)</li>
-<li> *(حصريا) اضافة خيار لمنع الوصول الى الواتساب ويب ( وداعا للتتجسس عبر واتساب ويب😉) </li>
-<li> *(حصريا) اضافة خيار لمنع الوصول الى المحادثات المؤرشفة</li>
-<li> *(حصريا) امكانية اخفاء خانة الحالات المشاهدة في واجهة الستوري/الحالة</li>
-<li> *(حصريا) امكانية اخفاء خانة الحالات  الأخيرة في واجهة الستوري/الحالة</li>
-<li> *امكانية اخفاء خانة الحالات الغير هامة في واجهة الستوري/الحالة</li>
-<li> *اضافة خيار لتغير واجهة الواتساب الى  الواجهة القديمة 2014</li>
-<li> *اضافة خيار لمنع ظهور اشعار اثناء الاستماع  الى التسجيلات الصوتية</li>
-<li> *اضافة خيارات الخصوصية في قائمة مخصصة ( خياراات .اضافات وخصائص . الخصوصية)</li>
-<li> *اضافة خيارات اخرى لكتم المحادثة ( ساعة ، 12ساعة ، 36 ساعة ، شهر ، للأبد)</li>
-<li> *امكانية تثبيت 100 محادثة في الشاشة الرئيسية بدلا من 25</li>
-<li> *اضافة خيار تعدد الدردشات (فتح اكثر من محادثة في قائمة التطبيقات المستخدمة مؤخرا)</li>
-<li> *امكانية وضع فيديو في  الحالة / الستوري حتى 30 دقيقة بدلا من 7 دقائق</li>
-<li> *والمزيد....</li>
+<li>البناء على اصدار (GB6.30) </li>
+<li>السحب من اليمين الى اليسار لاغلاق المحادثه </li>
+<li>اظهار صحين الازرق فقط بعد الرد (تعليم الرساله مقروءه بعد الرد!)  </li>
+<li>اضافة خيار لتعطيل السحب  </li>
+<li>إضافة خيار ارسال رسالة لاي رقم غير محفوظ في جهازك
+<li>امكانية التبديل بين ايقونة دردشة لرقم غير محفوظ  , وايقونة بدأ محادثة جديدة في الشريط العلوي للشاشة الرئيسية </li>
+<li>اضافة خيار لتغير بين الفيسات الجديدة والقديمة /الايموجي/ </li>
+<li>اضافة خيار لعرض رقمك او الحالة الخاصة بك في الشريط العلوي للشاشة الرئيسية </li>
+<li>إضافة خيار لتغير ستايل الشاشة الرئيسية ل6 اشكال </li>
+<li>اضافة ايقونات جديدة </li>
+<li>إمكانية رفع فيديو في الحالة مدته ساعة بدلا من 7 دقائق </li>
+<li>اصلاح كافة المشاكل السابقة في الاصدار 1.27 </li>
 
-<li> *Fixed all bugs of v1.26</li>
-<li> *Add Old emojis</li>
-<li> *Based on GB6.25</li>
-<li> *(Exclusive) Add option to block access to Whatsapp Web (Goodbye spying via Whatsapp Web) </li>
-<li> *(Exclusive) Add option to block access to archived chats</li>
-<li> *(Exclusive) Ability to hide view status in status row</li>
-<li> *(Exclusive) Ability to hide Recent status in status row</li>
-<li> *Ability to hide mute status in status row</li>
-<li> *Added Option to Change Home Screen To Old Ui (2014)</li>
-<li> *Added option to Disable notification while playing voice notes</li>
-<li> *Extra Mute Conversation Options (1 hrs, 12 hrs , 36 hrs, 1 month , Forever )</li>
-<li> *Added Privacy Settings (GB Settings.. Privacy)</li>
-<li> *Ability to Pin 100 instead of 25 Chats</li>
-<li> *Ability to Send a video to your Status for 30 minutes instead of 30 seconds</li>
-<li> *Added MultiTask</li>
-<li> *And more...</li>
+<li>Based on GB6.30 </li>
+<li>Swipe from left to right to exit conversations, like telegram! </li>
+<li>Added Option to Show Blue ticks after reply! (mark message as read, only when you reply!) </li>
+<li>Added Option to Send Messages to unsaved Number </li>
+<li>Added Option to Disable Swipe from left to right to exit conversations </li>
+<li>Added Option to Switch between New Chating(Chat for an unsaved number) and New Message icon </li>
+<li>Added Option to Switch between Old and New emojis </li>
+<li>Added Option to Conversations Style Row </li>
+<li>New Launcher Icons </li>
+<li>Added Option to set "EITHER" your number or your status under name in main screen </li>
+<li>Ability to Send a video to your Status for 1 hour instead of 30 seconds </li>
+<li>Fixed all bugs of v1.27</li>
 
 
 ","url":"https://soula10.blogspot.com/2017/05/soula-wamods-lite-3.html"
