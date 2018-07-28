@@ -1,31 +1,12 @@
-{"version_code":451205,"content":"
-<p>تحديث 1.28</p>
+{"version_code":451207,"content":"
+<p>تحديث 1.28.6</p>
 
-<li>البناء على اصدار (GB6.30) </li>
-<li>السحب من اليمين الى اليسار لاغلاق المحادثه </li>
-<li>اظهار صحين الازرق فقط بعد الرد (تعليم الرساله مقروءه بعد الرد!)  </li>
-<li>اضافة خيار لتعطيل السحب  </li>
-<li>إضافة خيار ارسال رسالة لاي رقم غير محفوظ في جهازك
-<li>امكانية التبديل بين ايقونة دردشة لرقم غير محفوظ  , وايقونة بدأ محادثة جديدة في الشريط العلوي للشاشة الرئيسية </li>
-<li>اضافة خيار لتغير بين الفيسات الجديدة والقديمة /الايموجي/ </li>
-<li>اضافة خيار لعرض رقمك او الحالة الخاصة بك في الشريط العلوي للشاشة الرئيسية </li>
-<li>إضافة خيار لتغير ستايل الشاشة الرئيسية ل6 اشكال </li>
-<li>اضافة ايقونات جديدة </li>
-<li>إمكانية رفع فيديو في الحالة مدته ساعة بدلا من 7 دقائق </li>
-<li>اصلاح كافة المشاكل السابقة في الاصدار 1.27 </li>
+<li>تمديد صلاحية النسخة شهرين إضافيين،حتى الانتهاء من النسخة v1.29</li>
+<li>تخفيف من حجم النسخة لتصبح 29م.. بدلا من 42م</li>
 
-<li>Based on GB6.30 </li>
-<li>Swipe from left to right to exit conversations, like telegram! </li>
-<li>Added Option to Show Blue ticks after reply! (mark message as read, only when you reply!) </li>
-<li>Added Option to Send Messages to unsaved Number </li>
-<li>Added Option to Disable Swipe from left to right to exit conversations </li>
-<li>Added Option to Switch between New Chating(Chat for an unsaved number) and New Message icon </li>
-<li>Added Option to Switch between Old and New emojis </li>
-<li>Added Option to Conversations Style Row </li>
-<li>New Launcher Icons </li>
-<li>Added Option to set "EITHER" your number or your status under name in main screen </li>
-<li>Ability to Send a video to your Status for 1 hour instead of 30 seconds </li>
-<li>Fixed all bugs of v1.27</li>
+<li>Added Extended Expiry date Until V1.29 comes out </li>
+<li>Reduce App size from 42Mb to 29Mb</li>
+
 
 
 ","url":"https://soula10.blogspot.com/2017/05/soula-wamods-lite-3.html"
