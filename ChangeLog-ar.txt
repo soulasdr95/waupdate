@@ -1,48 +1,74 @@
-{"version_code":452226,"content":"
-<p>تحديث اصلاحي|Update Fix 5.20</p>
+{"version_code":452403,"content":"
+<p> تحديث|Update 5.30.2</p>
 
-<li> التحديث لنسخة الماركت 2.18.92</li>
-<li> إضافة  أيقونات جديدة</li>
-<li> إصلاح التعليق ..البرنامج اصبح اكثر سرعة وسلاسة!</li>
-<li> واجهة جديدة للاعدادات</li>
-<li> إضافة خيار لجعل خلفية الاعدادات سوداء</li>
-<li> حذف الخصوصية المخصصة مؤقتا</li>
-<li> إمكانية إرسال الملصقات داخل المحادثات</li>
-<li> عندما يقوم احد ما بتوجيه رسالة لك في اي مجموعة ستظهر علامة @ اسفل المحادثة</li>
-<li> نقل خيارات الخصوصية الى (الشاشة الرئيسة - الشريط العلوي) </li>
-<li> نقل خيار رسالة لرقم غير محفوظ (الشاشة الرئيسة - الشريط العلوي) </li>
-<li> تحسينات على خيار تحميل الحالة/ الستوري</li>
-<li> اصلاح انهيار التطبيق عند فتح الاعدادات في بعض الاجهزة</li>
-<li> إصلاح خيار لعرض الرسائل الطويلة بدون ظهور (قراءة المزيد...)</li>
-<li> إصلاح  خيارلتعطيل ظهور الإشعارات المنبثقة في اصدار اوريو 8.0</li>
-<li> إصلاح خيار إرسال الصور بأعلى دقة</li>
-<li> اصلاح خيار تغير الايقونات في البكج الثانية (com.soula2)</li>
-<li> اصلاح خيار تعطيل ظهور عداد الرسائل على الايقونة الرئيسية(com.soula2)</li>
-<li> اصلاح مشكلة ظهور الشاشة البيضاء اثناء فتح البرنامج</li>
-<li> إصلاحات اخرى</li>
+<li>التحديث لنسخة الماركت 2.18.203</li>
+<li>(حصريا) امكانية تخصيص قائمة الخيارات</li>
+<li>(حصريا) امكانية اخفاء حالة كتابية جديدة في قائمة الخيارات</li>
+<li>(حصريا) امكانية اخفاء حالة جديدة  في قائمة الخيارات</li>
+<li>امكانية اخفاء اعدادات الحالة في قائمة الخيارات</li>
+<li>(حصريا) امكانية اظهار الحالة في قائمة الخيارات</li>
+<li>(حصريا) امكانية اظهار حول في قائمة الخيارات</li>
+<li>(حصريا) امكانية اظهار واتساب ويب  في قائمة الخيارات</li>
+<li>(حصريا) امكانية اظهار الرسائل المميزة بنجمة في قائمة الخيارات</li>
+<li>امكانية اخفاء ايقونة الدردشة لرقم غير محفوظ من الشريط العلوي</li>
+<li>امكانية اخفاء ايقونة الخصوصية من الشريط العلوي</li>
+<li>إمكانية إرسال مقطع فيديو بحجم يصل حتى 256 ميغا بدلا من 72 ميغا</li>
+<li>(حصريا) امكانية اخفاء الاسم في شاشة الحالة /الستوري</li>
+<li>(حصريا) امكانية تغير واجهة المعرض من اللون الابيض الى اللون الاسود</li>
+<li>(حصريا) ستختفي الحالة بعد 48 ساعة بدلا من 24</li>
+<li>(حصريا) تغير شكل كافة الاعدادات الى شكل لايت بضغطة واحدة</li>
+<li>(حصريا) امكانية وضع الاسم في الشاشة الستوري/الحالة في المنتصف</li>
+<li>(حصريا) امكانية تغير واجهة الواتساب الى 4 اشكال</li>
+<li>اضافة 31 ايقونة جديدة للبرنامج</li>
+<li>اضافة 28 ايقونة جديدة للاشعارات</li>
+<li>اعادة اضافة الخصوصية المخصصة</li>
+<li>تفعيل "تعليم كمقروء" في الاشعارات</li>
+<li>تفعيل خيار "تحديد الكل" المحادثات في الشاشة الرئيسية	</li>
+<li>تفعيل خيار لاخفاء الوسائط من المعرض / لكل محادثه (الخيار في صفحة بروفايل المحادثه )	</li>
+<li>يمكنك الان تسجيل مقاطع صوتية بدون الحاجة للضغط المطول على زر تسجيل الصوت</li>
+<li>تفعيل ميزة وضع وصف للمجموعات</li>
+<li>إصلاح عدم ظهور الخريطة عند إرسال الموقع الخاص بك</li>
+<li>إصلاح خيار البحث عن تحديث الجديد</li>
+<li>اصبح البرنامج اكثر سرعة واستقرار</li>
+<li>إصلاحات اخرى</li>
+<li>والمزيد...</li>
 
 
 
-
-<li> New Base Updated to 2.18.92</li>
-<li> Added New Launcher Icons</li>
+<li> New Base Updated to 2.18.203</li>
+<li> [Exclusive] Now you can Customize your menu settings</li>
+<li> [Exclusive] Ability to Hide New text status Item From Options</li>
+<li> [Exclusive] Ability to Hide New status Item From Options</li>
+<li> [Exclusive] Ability to Hide Status Settings Item From Options</li>
+<li> [Exclusive] Ability to Show My About Item in Options</li>
+<li> [Exclusive] Ability to Show WhatsApp Web Item in Options</li>
+<li> [Exclusive] Ability to Show Starred messages Item in Options</li>
+<li> [Exclusive] Ability to Hide New Chating Icon From ActionBar</li>
+<li> [Exclusive] Ability to Hide Privacy Settings Icon From ActionBar</li>
+<li> [Exclusive] Ability to Hide Other contacts in Forward section</li>
+<li> [Exclusive] Ability to Hide Frequently contacted in Forward section</li>
+<li> [Exclusive] Ability to Hide Recent chats in Forward section</li>
+<li> [Exclusive] Ability to Hide name in status row</li>
+<li> [Exclusive] Ability to Change Gallery UI  to (Dark)</li>
+<li> [Exclusive] Now status will disappear after 48 hours instead of 24h</li>
+<li> [Exclusive] Ability to Change WA  % Lite Settings (theme),1-click To change theme</li>
+<li> [Exclusive] Ability to change Status Style Row (Center name)</li>
+<li> Exclusively Improved [Home Ui] Now you can choose multiple styles (Total 4 styles)</li>
+<li> Increased video sending limit to 256MB</li>
+<li> Added 31 New Launcher Icons (total 44)</li>
+<li> Added 9 New Notifying Bar Icons (total 28)</li>
+<li> ReAdded Custom Privacy</li>
 <li> All mods code Re-worked and Optimized.... WA Lite is Now EXTREMELY Faster and No Lags!</li>
 <li> WA Lite Settings UI and Re-organized</li>
-<li> Added option Dark Theme for ALL Settings</li>
-<li> Remove Custom Privacy (Next Update Will Readded) </li>
-<li> Enabled Stickers (Server Sided) </li>
-<li> Enabled Mention Button</li>
-<li> Move Privacy Options to (Home Page - Header)</li>
-<li> Move Send Messages to unsaved Number to (Home Page - Header)</li>
-<li> Improved Ability to Save Status/Story (Open any Status and Click on 3 Dots at right Corner and click download) </li>
-<li> Improved Ability to Copy Text Status (Open Options & Click on Copy) </li>
-<li> Fixed Soula settings in some devices</li>
-<li> Fixed option to Remove "Read More" option for Long Messages</li>
-<li> Fixed Disable Heads-up for Oreo Users</li>
-<li> Fixed High Resolution images</li>
-<li> Fixed launcher icon Changer (com.soula2)</li>
-<li> Fixed Disable Messages counter (com.soula2)</li>
-<li> Fixed a problem screen appears white and the program stops working</li>
+<li> Enabled "Mark as Read" from notification</li>
+<li> Enabled "Select all" option chats in Home screen</li>
+<li> Enabled Specific Media Visibility for Groups! Option to choose to show a group media in gallery or hide it..</li>
+<li> Enabled Save chats to a file! (Chat Menu > More > export chat)</li>
+<li> Enabled Locked Voice Recordings (Press and Swipe up/No need to hold for Recording) </li>
+<li> Group Description - Working</li>
+<li> Fixed Maps when send Location</li>
+<li> Fixed Update Checker</li>
+<li> Fixed WhatsApp big size on some phones</li>
 <li> Bugs fixes and speed improvements...</li>
 
 
