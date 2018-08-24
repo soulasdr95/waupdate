@@ -1,0 +1,13 @@
+{"version_code":452464,"content":"
+<p> تحديث|Update 0.4</p>
+
+<li>التحديث لنسخة الماركت 2.18.255</li>
+
+
+
+<li> New Base Updated to 2.18.255</li>
+
+
+
+","url":"https://soula10.blogspot.com/2018/06/wa-x-v01.html"
+}
