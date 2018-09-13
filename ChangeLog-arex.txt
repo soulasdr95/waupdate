@@ -1,11 +1,50 @@
-{"version_code":451207,"content":"
-<p>تحديث 1.28.6</p>
+{"version_code":451210,"content":"
+<p>تحديث 1.29.0</p>
 
-<li>تمديد صلاحية النسخة شهرين إضافيين،حتى الانتهاء من النسخة v1.29</li>
-<li>تخفيف من حجم النسخة لتصبح 29م.. بدلا من 42م</li>
+<li>البناء على اصدار (GB6.55)</li>
+<li>امكانية تخصيص قائمة الخيارات</li>
+<li>امكانية اخفاء حالة كتابية جديدة  من قائمة الخيارات</li>
+<li>امكانية اخفاء حالة جديدة  من قائمة الخيارات</li>
+<li>امكانية اخفاء اعدادات الحالة  من قائمة الخيارات</li>
+<li>امكانية اخفاء الحالة من قائمة الخيارات</li>
+<li>امكانية اخفاء واتساب ويب من قائمة الخيارات</li>
+<li>امكانية اخفاء الرسائل المميزة بنجمة من قائمة الخيارات</li>
+<li>امكانية اخفاء ايقونة الدردشة لرقم غير محفوظ  من قائمة الخيارات</li>
+<li>إمكانية إرسال مقطع فيديو بحجم يصل حتى 128 ميغا  </li>
+<li>امكانية اخفاء الاسم في شاشة الحالة /الستوري</li>
+<li>امكانية اخفاء الدردشات المستعملة مراراً في شاشة اعادة التوجيه</li>
+<li>امكانية اخفاء جهات الاتصال الأخرى في شاشة اعادة التوجيه</li>
+<li>امكانية اخفاء الحالات الحديثة في شاشة اعادة التوجيه</li>
+<li>امكانية وضع الاسم في الشاشة الستوري/الحالة في المنتصف</li>
+<li>امكانية تغير واجهة الواتساب الى 4 اشكال</li>
+<li>إضافة  العديد من الخيارات لتحكم بالاشعارات (من شاهد حالتك, من قام بتغير الصورة الشخصية)</li>
+<li>إضافة خيار لتغير محتوى الشاشة الرئيسية ل11  شكل</li>
+<li>اضافة ايقونات جديدة للبرنامج (الاجمالي 113 ايقونة)</li>
+<li>اضافة ايقونات جديدة للاشعارات (الاجمالي 52 ايقونة)</li>
+<li>إمكانية رفع فيديو في الحالة مدته 29 دقيقة بدلا من 7 دقائق</li>
+<li>اصلاح كافة المشاكل السابقة في الاصدار 1.28</li>
 
-<li>Added Extended Expiry date Until V1.29 comes out </li>
-<li>Reduce App size from 42Mb to 29Mb</li>
+<li>Based on GB v6.55</li>
+<li>Now you can Customize your menu settings</li>
+<li>Ability to Hide name in status row</li>
+<li>Ability to Hide Recent chats in Forward section</li>
+<li>Ability to Hide Frequently contacted in Forward section</li>
+<li>Ability to Hide Other contacts in Forward section</li>
+<li>Ability to Hide New Chating Icon From options</li>
+<li>Ability to Hide Starred messages Item From Options</li>
+<li>Ability to Hide WhatsApp Web Item From Options</li>
+<li>Ability to Hide My About Item From Options</li>
+<li>Ability to Hide Status Settings Item From Options</li>
+<li>Ability to Hide New status Item From Options</li>
+<li>Ability to Hide New text status Item From Options</li>
+<li>Improved [Home Ui] Now ou can choose multiple styles (Total 4 styles)</li>
+<li>Increased video sending limit to 128MB</li>
+<li>Added New Launcher Icons (total 113 icons)</li>
+<li>Added New Notifybar Icons (total 52 icons)</li>
+<li>Added option to change Conversations Style Row (11 Styles)</li>
+<li>Added option to change ActionBar Style in Conversations(6 Styles)</li>
+<li>Added many options for Toast settings</li>
+<li>Fixed all bugs of v1.28.6</li>
 
 
 
