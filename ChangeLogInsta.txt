@@ -1,9 +1,14 @@
-{"version_code":1,"content":"
-<p>تحديث 0.12</p>
+{"version_code":2,"content":"
+<p>تحديث 0.9.1.3</p>
 
-<li> التحديث لنسخة الماركت 71.0.0.18.102</li>
+<li>تحسينات على خيار تحميل الصورة/الفيديو (لتحميل اي صورة/فيديو اضغط على الثلاث نقط في زاوية المنشور وقم بالضغط على خيارات متقدمة. ثم تحميل)</li>
+<li>اضافة امكانية نسخ التعليقات</li>
+<li>تخفيف من حجم البرنامج ليصبح فقط 34م بدلا من 50م</li>
 
-<li> Many More Fixes</li>
+
+<li>Improved & Fixed Download Video/Images Options</li>
+<li>Added Ability to Copy Comment</li>
+<li>Reduce APP Size from 50Mb to 34Mb</li>
 
 ","url":"https://www.saifroid.com/2018/12/instagram.html"
 }
