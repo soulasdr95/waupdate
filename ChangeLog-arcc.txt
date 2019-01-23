@@ -1,31 +1,29 @@
-{"version_code":452596,"content":"
-<p> تحديث|Update 0.5f</p>
+{"version_code":452640,"content":"
+<p> تحديث|Update 0.6F</p>
 
-<li>التحديث لنسخة الماركت 2.18.361</li>
-<li>إضافة فيسات الواتساب الجديدة</li>
-<li>اضافة ميزة اظهار صحين الازرق فقط بعد الرد</li>
-<li>إمكانية تحميل اي صورة / مقطع فيديو من الستوري بشكل مباشر</li>
-<li>اضافة خيار لاعادة تعين كل الاعدادات الى وضعها الافتراضي</li>
-<li>بإمكانك الآن تمرير الرسالة من اليسار إلى اليمين للرد عليها</li>
-<li>تفعيل ميزة حفظ مكان القراءة حيث عند فتح محادثة سابقة توقفت فيها عند كلمة معينة سوف تظهر مباشرة عند الدخول الى المحادثة مرة أخرى</li>
-<li>تفعيل ميزة المكالمات الجماعية</li>
-<li>تفعيل ميزة صورة داخل الصورة</li>
+<li>التحديث لنسخة الماركت (بيتا) 2.19.11</li>
+<li>اضافة خيار لاخفاء  عبارة رسالة محولة</li>
+<li>يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
+<li>تفعيل ميزة رد فردي على شخص (الخاص) داخل المجموعات (حدد رسالة,خيارات,رد فردي)</li>
+<li>اضافة ميزة منع حذف حالة صديقك</li>
+<li>امكانية نسخ اي جزء من الحالة القديمة</li>
+<li>تفغيل كافة الميزات التجريبة لشركة الواتساب</li>
+<li>إصلاح التعليق ..البرنامج اصبح اكثر سرعة وسلاسة من قبل..</li>
+<li>دعم اللغة العربية ,الاسبانية, الالمانية ,البرتغالية , التركية ,الروسية .الاندونيسية</li>
 <li>اصلاحات اخرى</li>
 
 
-<li> New Base Updated to 2.18.361 Stable</li>
-<li> Added New emojis</li>
-<li> Added Show Blue ticks after reply</li>
-<li> Ability to Save Status/Story (Open any Status and Click on 3 Dots at right Corner and click download) </li>
-<li> Ability to Copy Text Status (Open Options & Click on Copy) </li>
-<li> Added Option to Reset All Options to default</li>
-<li> Enabled Stickers</li>
-<li> Enabled Swipe To Reply</li>
-<li> Enabled Group Calls</li>
-<li> Enabled PiP </li>
-<li> Enabled Forwarded messages label</li>
-<li> Added Option to share WAX with your friends </li>
-<li> Other Fixes...</li>
+<li>New Base Updated to 2.19.11</li>
+<li>Added DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
+<li>Added Ability to Disable "Forward" tag option</li>
+<li>Reply privately in Groups (select message ,3-dot menu )</li>
+<li>Added Anti-Delete status</li>
+<li>Ability to Copy any part of contact's status.</li>
+<li>Enabled All hidden features..</li>
+<li>All mods code Re-worked and Optimized....</li>
+<li>Support Arabic & Spanish & German & Turkish & Pt_rBR & Indonesian & Russian & languages</li>
+<li>Other Fixes...</li>
+
 
 
 ","url":"https://soula10.blogspot.com/2018/06/wa-x-v01.html"
