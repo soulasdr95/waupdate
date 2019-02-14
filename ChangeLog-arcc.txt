@@ -1,27 +1,17 @@
-{"version_code":452640,"content":"
-<p> تحديث|Update 0.6F</p>
+{"version_code":452680,"content":"
+<p> تحديث|Update 0.6.5F</p>
 
-<li>التحديث لنسخة الماركت (بيتا) 2.19.11</li>
-<li>اضافة خيار لاخفاء  عبارة رسالة محولة</li>
-<li>يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
-<li>تفعيل ميزة رد فردي على شخص (الخاص) داخل المجموعات (حدد رسالة,خيارات,رد فردي)</li>
-<li>اضافة ميزة منع حذف حالة صديقك</li>
-<li>امكانية نسخ اي جزء من الحالة القديمة</li>
+
+<li>التحديث لنسخة الماركت (بيتا) 2.19.45</li>
+<li>تحسينات ومظهر جديد للاعدادات </li>
+<li>اصلاح خيار اخفاء صحين القراءة</li>
 <li>تفغيل كافة الميزات التجريبة لشركة الواتساب</li>
-<li>إصلاح التعليق ..البرنامج اصبح اكثر سرعة وسلاسة من قبل..</li>
-<li>دعم اللغة العربية ,الاسبانية, الالمانية ,البرتغالية , التركية ,الروسية .الاندونيسية</li>
 <li>اصلاحات اخرى</li>
 
 
-<li>New Base Updated to 2.19.11</li>
-<li>Added DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
-<li>Added Ability to Disable "Forward" tag option</li>
-<li>Reply privately in Groups (select message ,3-dot menu )</li>
-<li>Added Anti-Delete status</li>
-<li>Ability to Copy any part of contact's status.</li>
+<li>New Base Updated to 2.19.45 Beta</li>
+<li>New Settings UI</li>
 <li>Enabled All hidden features..</li>
-<li>All mods code Re-worked and Optimized....</li>
-<li>Support Arabic & Spanish & German & Turkish & Pt_rBR & Indonesian & Russian & languages</li>
 <li>Other Fixes...</li>
 
 
