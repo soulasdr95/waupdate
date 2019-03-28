@@ -1,18 +1,14 @@
-{"version_code":452680,"content":"
-<p> تحديث|Update 0.6.5F</p>
+{"version_code":452681,"content":"
+<p> تحديث|Update 0.6.6F</p>
 
 
-<li>التحديث لنسخة الماركت (بيتا) 2.19.45</li>
-<li>تحسينات ومظهر جديد للاعدادات </li>
-<li>اصلاح خيار اخفاء صحين القراءة</li>
-<li>تفغيل كافة الميزات التجريبة لشركة الواتساب</li>
-<li>اصلاحات اخرى</li>
+<li>ازالة رساله التحديث المزعجة</li>
+<li>تمديد مدة صلاحيه النسخة</li>
 
 
-<li>New Base Updated to 2.19.45 Beta</li>
-<li>New Settings UI</li>
-<li>Enabled All hidden features..</li>
-<li>Other Fixes...</li>
+<li>Added Anti-Expiry</li>
+<li>Removed annoying update WhatsApp message</li>
+
 
 
 
