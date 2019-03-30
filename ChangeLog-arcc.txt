@@ -1,16 +1,20 @@
-{"version_code":452681,"content":"
-<p> تحديث|Update 0.6.6F</p>
+{"version_code":452722,"content":"
+<p> تحديث|Update 0.7.1F</p>
 
 
-<li>ازالة رساله التحديث المزعجة</li>
-<li>تمديد مدة صلاحيه النسخة</li>
+<li>التحديث لنسخة الماركت  2.19.81</li>
+<li>اضافة خيارات الميديا..</li>
+<li>تفعيل كافة المزايا التجريبية للشركة الواتساب</li>
+<li>اضافة ميزة اظهار صحين الازرق فقط بعد الرد</li>
+<li>اصلاح كافة المشاكل السابقة في الاصدار 0.6.5</li>
 
 
-<li>Added Anti-Expiry</li>
-<li>Removed annoying update WhatsApp message</li>
+<li>New Base Updated to 2.19.81 Stable</li>
+<li>Added Media Mods....</li>
+<li>Enabled All hidden features..</li>
+<li>ReAdded Show Blue ticks after reply</li>
+<li>Fixed all bugs of v0.6.5F</li>
 
 
-
-
-","url":"https://soula10.blogspot.com/2018/06/wax-v065f.html"
+","url":"https://soula10.blogspot.com/2018/06/wax-v071f.html"
 }
