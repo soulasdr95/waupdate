@@ -1,11 +1,11 @@
-{"version_code":452561,"content":"
-<p>تحديث 1.31.2</p>
+{"version_code":452600,"content":"
+<p>تحديث 1.40</p>
 
-<li> ازالة رساله التحديث المزعجة</li>
-<li> تمديد مدة صلاحيه النسخة</li>
+<li>  التحديث الى الاصدار 6.85 الاخير</li>
+<li>  ملاحظة: التحديث الكامل قادم بعد بضعة ايام ان شاء الله</li>
 
-<li> Added Anti-Expiry</li>
-<li> Removed annoying update WhatsApp message</li>
+<li> Based on GB v6.85</li>
+<li> note: update 2 coming after few days</li>
 
 
 ","url":"https://soula10.blogspot.com/2017/05/soula-wamods-lite-3.html"
