@@ -1,9 +1,21 @@
-{"version_code":4,"content":"
-<p>تحديث 0.9.2.10</p>
+{"version_code":6,"content":"
+<p>تحديث 0.9.4.20</p>
 
+<li> اعادة اضافة إخفاء انك شاهدت القصص(الستوري) </li>
+<li> اعادة إضافة ايقونة للدخول الى قسم الاضافات والخصائص في قسم البروفايل</li>
+<li> اعادة إضافة خيار لتشغيل الصوت مع الفيديو بشكل تلقائي</li>
+<li> اصلاح عدم امكانية تحميل الصور/الفيديوهات  من الحسابات الخاصة</li>
+<li> دعم نظام pie 9.0</li>
+<li> دعم اللغة الايطالية</li>
+<li> اصلاح انهيار التطبيق بنسبة 90%</li>
 
+<li> ReAdded Option to Start Audio Directly with Video</li>
+<li> ReAdded InstaUltra Settings Icon on Header of profile</li>
+<li> ReAdded Privacy - Hide View Status</li>
+<li> Support Italian languages (thanks to tony)</li>
+<li> Fixed Download Video/Images Options (private accounts)</li>
+<li> Fixed InstaUltra crash (90%)</li>
 
-<li>test message</li>
 
 
 ","url":"https://www.saifroid.com/2018/12/instagram.html"
