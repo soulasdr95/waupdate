@@ -1,4 +1,4 @@
-{"version_code":6,"content":"
+{"version_code":1,"content":"
 <p>تحديث 0.9.4.20</p>
 
 <li> اعادة اضافة إخفاء انك شاهدت القصص(الستوري) </li>
