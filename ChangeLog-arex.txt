@@ -1,12 +1,24 @@
-{"version_code":452600,"content":"
-<p>تحديث 1.40</p>
+{"version_code":452602,"content":"
+<p>تحديث|update 1.45</p>
 
-<li>  التحديث الى الاصدار 6.85 الاخير</li>
-<li>  ملاحظة: التحديث الكامل قادم بعد بضعة ايام ان شاء الله</li>
+<li>امكانية اضافة الوان جديدة للحالة النصية</li>
+<li>اضافة خيار لاخفاء ايقونة المكالمات الجماعية في المجموعة</li>
+<li>امكانية اخفاء & نقل ايقونة بدء مكالمة جديدة الى قائمة الخيارات</li>
+<li>امكانية اخفاء & نقل ايقونة اعدادات اكستريم الى قائمة الخيارات</li>
+<li>امكانية اخفاء & نقل ايقونة البحث الى قائمة الخيارات</li>
+<li>امكانية اخفاء/نقل ايقونة  قطع الاتصال الى قائمة الخيارات</li>
+<li>اعادة اضافة كافة اضافات اكستريم السابقة</li>
+<li>والمزيد............</li>
 
-<li> Based on GB v6.85</li>
-<li> note: update 2 coming after few days</li>
+<li> Added option to hide/Move [Group Call Icon] from Action bar to options</li>
+<li> Added Option to Changes Background Color Status </li>
+<li> Added Option to Move New Call Icon from Action Bar To options</li>
+<li> Added Option to Move Search Icon from Action Bar To options</li>
+<li> Added Option to Hide DND Mode Icon</li>
+<li> Added Option to Move Extreme Settings Icon from Action Bar To options</li>
+<li> ReAdded All GBWA Extreme options</li>
+<li> And More...</li>
 
 
-","url":"https://soula10.blogspot.com/2017/05/soula-wamods-lite-3.html"
+","url":"https://soula10.blogspot.com/2017/05/gbwhatsapp-extreme-v145.html"
 }
