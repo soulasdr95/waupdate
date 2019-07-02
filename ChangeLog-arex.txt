@@ -1,24 +1,23 @@
-{"version_code":452602,"content":"
-<p>تحديث|update 1.45</p>
+{"version_code":452603,"content":"
+<p>تحديث|update 1.50</p>
 
-<li>امكانية اضافة الوان جديدة للحالة النصية</li>
-<li>اضافة خيار لاخفاء ايقونة المكالمات الجماعية في المجموعة</li>
-<li>امكانية اخفاء & نقل ايقونة بدء مكالمة جديدة الى قائمة الخيارات</li>
-<li>امكانية اخفاء & نقل ايقونة اعدادات اكستريم الى قائمة الخيارات</li>
-<li>امكانية اخفاء & نقل ايقونة البحث الى قائمة الخيارات</li>
-<li>امكانية اخفاء/نقل ايقونة  قطع الاتصال الى قائمة الخيارات</li>
-<li>اعادة اضافة كافة اضافات اكستريم السابقة</li>
-<li>والمزيد............</li>
-
-<li> Added option to hide/Move [Group Call Icon] from Action bar to options</li>
-<li> Added Option to Changes Background Color Status </li>
-<li> Added Option to Move New Call Icon from Action Bar To options</li>
-<li> Added Option to Move Search Icon from Action Bar To options</li>
-<li> Added Option to Hide DND Mode Icon</li>
-<li> Added Option to Move Extreme Settings Icon from Action Bar To options</li>
-<li> ReAdded All GBWA Extreme options</li>
-<li> And More...</li>
+<li>ﻧﺴﺨﺔ ﺿﺪ ﺍﻟﺤﻈﺮ (ﻓﻲ ﺣﺎﻝ ﺗﻢ ﺣﻈﺮ ﺭﻗﻤﻚ ﻓﻲ ﻭﻗﺖ ﺳﺎﺑﻖ ﻳﺠﺐ ﻋﻤﻞ ﻧﺴﺨﺔ ﺍﺣﺘﻴﺎﻃﻴﺔ ﻟﻠﻤﺤﺎﺩﺛﺎﺕ ﺛﻢ ﺣﺬﻑ ﺍﻟﻮﺍﺗﺲ ﺍﺏ ﻭﺗﺜﺒﻴﺘﻪ ﻣﻦ ﺟﺪﻳﺪ)</li>
+</li>ﺗﻤﺪﻳﺪ ﺻﻼﺣﻴﺔ ﺍﻟﻨﺴﺨﺔ ﻟﻤﺪﺓ ﺷﻬﺮﻳﻦ<li>
+</li>ﺍﺻﻼﺡ ﻣﺸﻜﻠﺔ ﻇﻬﻮﺭ ﻋﺪﺍﺩ ﺍﻟﺮﺳﺎﺋﻞ ﺍﻟﻤﺨﻔﻴﺔ<li>
+</li>ﺍﺻﻼﺡ ﻟﻮﻥ ﺍﻟﺪﻓﻌﺎﺕ ﻓﻲ ﺷﺎﺷﺔ ﺍﻟﻤﺤﺎﺩﺛﺔ<li>
+</li>ﺍﺻﻼﺡ ﺍﻻﻧﻬﻴﺎﺭ ﻋﻨﺪ ﻓﺘﺢ ﻣﺤﺎﺩﺛﺔ ﻓﻲ ﺑﻌﺾ ﺍﻻﺻﺪﺍﺭﺍﺕ<li>
+</li>ﺍﺻﻼﺣﺎﺕ ﺍﺧﺮﻯ<li>
 
 
-","url":"https://soula10.blogspot.com/2017/05/gbwhatsapp-extreme-v145.html"
+<li>Anti-Ban (If you got BAN before - Uninstall and Install This)</li>
+<li>Fixed Hidden Chat Count Showing on Main Screen</li>
+<li>Fixed Payments Color in Attach Menu</li>
+<li>Fixed Crash When Open Chat on Some Devices</li>
+<li>Extended Expiry for this Base</li>
+<li>Many More Fixes</li>
+
+
+
+
+","url":"https://soula10.blogspot.com/2017/05/gbwa.extreme.html"
 }
