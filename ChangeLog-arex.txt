@@ -1,23 +1,14 @@
-{"version_code":452603,"content":"
-<p>تحديث|update 1.50</p>
+{"version_code":452604,"content":"
+<p>تحديث|update 1.60</p>
 
-<li>ﻧﺴﺨﺔ ﺿﺪ ﺍﻟﺤﻈﺮ (ﻓﻲ ﺣﺎﻝ ﺗﻢ ﺣﻈﺮ ﺭﻗﻤﻚ ﻓﻲ ﻭﻗﺖ ﺳﺎﺑﻖ ﻳﺠﺐ ﻋﻤﻞ ﻧﺴﺨﺔ ﺍﺣﺘﻴﺎﻃﻴﺔ ﻟﻠﻤﺤﺎﺩﺛﺎﺕ ﺛﻢ ﺣﺬﻑ ﺍﻟﻮﺍﺗﺲ ﺍﺏ ﻭﺗﺜﺒﻴﺘﻪ ﻣﻦ ﺟﺪﻳﺪ)</li>
 </li>ﺗﻤﺪﻳﺪ ﺻﻼﺣﻴﺔ ﺍﻟﻨﺴﺨﺔ ﻟﻤﺪﺓ ﺷﻬﺮﻳﻦ<li>
-</li>ﺍﺻﻼﺡ ﻣﺸﻜﻠﺔ ﻇﻬﻮﺭ ﻋﺪﺍﺩ ﺍﻟﺮﺳﺎﺋﻞ ﺍﻟﻤﺨﻔﻴﺔ<li>
-</li>ﺍﺻﻼﺡ ﻟﻮﻥ ﺍﻟﺪﻓﻌﺎﺕ ﻓﻲ ﺷﺎﺷﺔ ﺍﻟﻤﺤﺎﺩﺛﺔ<li>
-</li>ﺍﺻﻼﺡ ﺍﻻﻧﻬﻴﺎﺭ ﻋﻨﺪ ﻓﺘﺢ ﻣﺤﺎﺩﺛﺔ ﻓﻲ ﺑﻌﺾ ﺍﻻﺻﺪﺍﺭﺍﺕ<li>
 </li>ﺍﺻﻼﺣﺎﺕ ﺍﺧﺮﻯ<li>
 
+<li>Added Anti-Expiry</li>
+<li>Removed annoying update WhatsApp message</li>
 
-<li>Anti-Ban (If you got BAN before - Uninstall and Install This)</li>
-<li>Fixed Hidden Chat Count Showing on Main Screen</li>
-<li>Fixed Payments Color in Attach Menu</li>
-<li>Fixed Crash When Open Chat on Some Devices</li>
-<li>Extended Expiry for this Base</li>
-<li>Many More Fixes</li>
+ 
 
 
 
-
-","url":"https://soula10.blogspot.com/2017/05/gbwa.extreme.html"
-}
+","url":"https://soula10.blogspot.com/2017/05/gbwa.extreme.html"}
