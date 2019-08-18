@@ -1,43 +1,31 @@
-{"version_code":452666,"content":"
-<p> تحديث|Update 6.00.1</p>
+{"version_code":452892,"content":"
+<p> تحديث|Update 6.10</p>
 
-<li>التحديث لنسخة الماركت 2.19.34</li>
-<li>اضافة خيار ايقونة المكالمات الجماعية في المجموعة</li>
-<li>تفعيل قفل البصمة</li>
-<li>امكانية قفل الواتساب بواسطة نمط او رمز pin</li>
-<li>يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
-<li>امكانية اخفاء ايقونة قطع الانترنت</li>
-<li>امكانية اضافة الوان جديدة للحالة النصية</li>
-<li>امكانية اخفاء & نقل ايقونة دردشة لرقم غير محفوظ  الى قائمة الخيارات</li>
-<li>امكانية اخفاء & نقل ايقونة اعدادات الحالة الى قائمة الخيارات</li>
-<li>امكانية اخفاء & نقل ايقونة اعدادات لايت الى قائمة الخيارات</li>
-<li>امكانية اخفاء & نقل ايقونة البحث الى قائمة الخيارات</li>
-<li>اضافة خيار لمسح الايموجي المستخدم مؤخرا</li>
-<li>اضافة خيار لاخفاء ايقونة الاتصال في المحادثة</li>
-<li>تحسين & اصلاح خيار تغير ايقونة التطبيق في النسخة2</li>
-<li>اصلاح انهيار التطبيق عند ارسال الفيديو في النسخة2</li>
-<li>اصلاحات اخرى</li>
+<li> التحديث لنسخة الماركت 2.19.216</li>
+<li> ضد الحظر ان شاء الله</li>
+<li> اضافة خيار لاخفاء الخط الرمادي في قسم الحالة</li>
+<li> إمكانية معرفة الشخص الذي قام بمشاهدة حالتك (الستوري)  </li>
+<li> اضافة امكانية إعادة الارسال بدون ظهور رسالة مُحولة </li>
+<li> اضافة امكانية تحميل الصورة الشخصية لاي شخص كان</li>
+<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
+<li> تحسين خيار الوضع المظلم للاعدادات</li>
+<li> إصلاح  ظهور الإشعارات المنبثقة في اصدار اوريو و الفطيرة</li>
+<li> إصلاح مشكلة التعليق في التطبيق</li>
+<li> والمزيد...</li>
 
 
 
-
-<li>New Base Updated to 2.19.34</li>
-<li>Added option to hide/Move [Group Call Icon] from Action bar to options</li>
-<li>Enabled Fingerprint lock </li>
-<li>New WA lock with a PIN or PATTERN</li>
-<li>DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
-<li>Added Option to Hide DND Mode Icon</li>
-<li>Added Option to Changes Background Color Status</li>
-<li>Added Option to Move New Chating Icon from Action Bar To options</li>
-<li>Added Option to Move Status Settings Icon from Action Bar To options</li>
-<li>Added Option to Move Search Icon from Action Bar To options</li>
-<li>Added Option to Move Wa Lite Settings Icon from Action Bar To options</li>
-<li>Added Option to Clear Recent Emojis.</li>
-<li>Added option to hide [Call Icon] from Action bar</li>
-<li>Improved & Fixed launcher icon Changer (com.soula2)</li>
-<li>Fixed crashing when Sending video (com.soula2)</li>
-<li>Many Other Fixes</li>
+<li>New Base Updated to 2.19.216 (Playstore) </li>
+<li>Anti-Ban </li>
+<li>Added option to Disable "Forward" tag  </li>
+<li>Added show Toast When Anyone Views your Status/Story</li>
+<li>Added Ability to download profile image</li>
+<li>Added option to Hide grey line between Status in Story Screen</li>
+<li>Improved option Dark Theme for ALL Settings</li>
+<li>Enabled All hidden features..</li>
+<li>Fixed Disable Heads-up for Oreo & Pie Users</li>
+<li>Fixed lag issue</li>
 
 
-","url":"https://soula10.blogspot.com/2017/05/soula-wa-soula-wa-v500.html"
+","url":"https://soula107.blogspot.com/2019/08/walite.html"
 }
