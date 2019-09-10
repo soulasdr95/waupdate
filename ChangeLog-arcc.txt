@@ -1,17 +1,25 @@
-{"version_code":452877,"content":"
-<p> تحديث|Update 0.9B</p>
+{"version_code":452954,"content":"
+<p> تحديث|Update 0.9.7C</p>
 
 
-<li> نسخة ضد الحظر ان شاء الله</li>
-<li> التحديث لنسخة الماركت  2.19.203</li>
+<li> التحديث لنسخة الماركت  2.19.244</li>
 <li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
-<li> اصلاح المشاكل السابقة</li>
+<li> اصلاح خيار ارسال الصورة بدقة عالية الى الحالة</li>
+<li> اصلاح  تحميل الحالة</li>
+<li> اصلاح اخفاء انك شاهدت الحالة</li>
+<li> اصلاح اخفاء اشارة الصح الازرق</li>
+<li> اصلاحات اخرى</li>
+<li> والمزيد... :)</li>
 
 
-<li> New Base Updated to 2.19.203 Stable</li>
+<li> New Base Updated to 2.19.244 Stable Base</li>
 <li> Enabled All hidden features..</li>
-<li> Fixed all bugs of v0.8A</li>
+<li> Fixed Status Downloader</li>
+<li> Fixed Hide View Status</li>
+<li> Fixed Status Quality MOD</li>
+<li> Fixed Hide blue ticks</li>
+<li> Other Fixes...</li>
 
 
 
-","url":"https://www.saifroid.com/2019/06/WhatsApp-X.html"}
+","url":"https://soula10.blogspot.com/2018/06/wax.html"}
