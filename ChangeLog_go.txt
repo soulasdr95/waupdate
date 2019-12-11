@@ -1,5 +1,5 @@
-{"version_code":453116,"content":"
-<p> تحديث|Update 0.20.1</p>
+{"version_code":453122,"content":" 
+<p>تحديث|Update 0.20.1</p>
 
 
 <li>التحديث لنسخة الماركت  2.19.341  المستقرة</li>
@@ -12,16 +12,18 @@
 <li>اصلاحات اخرى</li>
 
 
-<li> New Base Updated to 2.19.341 Stable Base</li>
-<li> Know which new messages are deleted in chat (🚫) (Note: Anti-Delete Messages must be activated)</li>
-<li> New Privacy Settings for Groups (Settings > Account > Privacy > Groups)</li>
-<li> Added option to share WhatsApp X Edition with your friends..</li>
-<li> Improved Privacy Settings</li>
-<li> Enabled All hidden features..</li>
-<li> Fixed Hide View Status </li>
-<li> Fixed Don't stop audio option</li>
-<li> Other Fixes...</li>
+<li>New Base Updated to 2.19.360 Stable Base</li>
+<li>Added call waiting support so you can choose to accept an incoming WhatsApp call while you're already on another call.</li>
+<li>Know which new messages are deleted in chat (??) (Note: Anti-Delete Messages must be activated)</li>
+<li>New privacy settings allow you to control who can add you to groups. Go to Settings > Account > Privacy > Groups to get started.</li>
+<li>Added option to share WhatsApp GO Edition with your friends..</li>
+<li>Added option to Disable notification while playing voice notes</li>
+<li>Enabled All hidden features..</li>
+<li>Added Show Blue ticks after reply</li>
+<li>Added Media Mods....</li>
+<li>And More....</li>
 
 
 
-","url":"https://soula10.blogspot.com/2019/12/go.html"}
+","url":"https://soula10.blogspot.com/2019/12/go.html" 
+}
