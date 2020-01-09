@@ -1,27 +1,9 @@
-{"version_code":443096,"content":"
-<p> تحديث|Update 0.9.8.4.20L</p>
+{"version_code"452999,"content"
+<p>تحديث|Update 1.30</p>
 
+ <li>تحديث جديد</li>
 
-<li>التحديث لنسخة الماركت  2.19.341  المستقرة</li>
-<li>امكانية معرفة الرسائل المحذوفة في المحادثات</li>
-<li>إعدادات الخصوصية الجديدة للمجموعات (الإعدادات > الحساب > الخصوصية > المجموعات)</li>
-<li>تحسينات على خيارات الخصوصية</li>
-<li>تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
-<li>اصلاح خيار اخفاء انك شاهدت الحالة </li>
-<li>اصلاح خيار عدم توقيف الصوت</li>
-<li>اصلاحات اخرى</li>
+<li>New Update</li>
 
-
-<li> New Base Updated to 2.19.341 Stable Base</li>
-<li> Know which new messages are deleted in chat</li>
-<li> New Privacy Settings for Groups (Settings > Account > Privacy > Groups)</li>
-<li> Added option to share WhatsApp X Edition with your friends..</li>
-<li> Improved Privacy Settings</li>
-<li> Enabled All hidden features..</li>
-<li> Fixed Hide View Status </li>
-<li> Fixed Don't stop audio option</li>
-<li> Other Fixes...</li>
-
-
-
-","url":"https://soula10.blogspot.com/2018/06/wax.html"}
+ ","url":"https://www.mediafire.com/download/s14tac68k1fcfen" 
+}
