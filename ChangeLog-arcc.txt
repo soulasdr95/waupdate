@@ -1,9 +1,12 @@
-{"version_code"452999,"content"
-<p>تحديث|Update 1.30</p>
+{"version_code":453193,"content":"
+<p> تحديث|Update 0.20.22L</p>
 
- <li>تحديث جديد</li>
 
-<li>New Update</li>
+<li>تحديث جديد متاح</li>
 
- ","url":"https://www.mediafire.com/download/s14tac68k1fcfen" 
+
+<li> New Update Available</li>
+
+
+","url":"https://soula107.blogspot.com/2019/08/wago.html"
 }
